@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\Tanner\source\repos\Opengl\Opengl\CollisionEvent.h(65,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tanner\source\repos\Opengl\Opengl\CollisionEvent.h(66,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tanner\source\repos\Opengl\Opengl\GameObject.h(59,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Tanner\source\repos\Opengl\Opengl\Player.h(14,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanner\source\repos\Opengl\Opengl\GameObject.h(147): warning C4715: 'GameObject::update': not all control paths return a value
+  Opengl.vcxproj -> C:\Users\Tanner\source\repos\Opengl\x64\Debug\Opengl.exe
